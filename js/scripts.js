@@ -1,16 +1,11 @@
 $(document).ready(function() {
-  $("form#programming").submit(function(event) {
+  $("form#picker").submit(function(event) {
     event.preventDefault();
     const age = parseInt($("input#age").val());
-    console.log // for debugging
     const experience = $("select#experience").val();
-    console.log // for debugging
     const pets = $("select#pets").val();
-    console.log // for debugging
     const seasons = $("select#seasons").val();
-    console.log // for debugging
     const flavor = $("select#flavor").val();
-    console.log // for debugging 
     $("#result").show();
 
     if (age >="40" && experience === "no" && pets === "cat" && seasons === "spring" && flavor === "vanilla") {
