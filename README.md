@@ -2,18 +2,16 @@
 
 #### By _**Brad Buchholz**_
 
-#### _A portfolio page to display my projects and skills learned at Epicodus_
-
-## GitHub Pages 
-* _https://bradbuchholz.github.io/Portfolio/_
+#### _A simple program that helps you pick a programming language_
 ## Technologies Used
 
 * _HTML_
 * _CSS_
+* _JavaScript_
 
 ## Description
 
-_This is my porfolio page where I can display my work at Epicodus_
+_This is a JavaScript program that helps someone pick a programming language_
 
 ## Setup/Installation Requirements
 
@@ -22,7 +20,7 @@ _This is my porfolio page where I can display my work at Epicodus_
 
 ## Known Bugs
 
-* _Box on index.html does not fit properly around the picture. Black space needs to be reduced._
+* _Button is currently not collecting data._
 
 ## License
 

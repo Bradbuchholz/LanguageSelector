@@ -1,7 +1,7 @@
 $(document).ready(function() {
   $("form#programming").submit(function(event) {
     event.preventDefault();
-    const age = parseInt($("input#age").valueOf());
+    const age = parseInt($("input#age").val());
     console.log // for debugging
     const experience = $("select#experience").val();
     console.log // for debugging
