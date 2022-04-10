@@ -6,6 +6,6 @@ $(document).ready(funtion() {
     const seasons = $("select#seasons").val();
     const flavor = $("select#flavor").val();
 
-    if 
+    if (age >=40)
   }
 }
