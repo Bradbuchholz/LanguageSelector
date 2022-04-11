@@ -20,7 +20,7 @@ _This is a JavaScript program that helps someone pick a programming language_
 
 ## Known Bugs
 
-* _Button is currently not collecting data._
+* _Currently only some data inputs return results_
 
 ## License
 

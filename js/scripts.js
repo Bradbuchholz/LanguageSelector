@@ -19,7 +19,6 @@ $(document).ready(function() {
       $('.program-option').addClass('display-none');
     
     }
-    $("#result").text(result);
   })
 
 });
