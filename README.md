@@ -15,8 +15,9 @@ _This is a JavaScript program that helps someone pick a programming language_
 
 ## Setup/Installation Requirements
 
+* _Must have a working internet connection and a web browser_
 * _Clone repository from GitHub to your desktop_
-* _Open website in your browser_
+* _Open index.html file with your browser of choice (works with all major browsers including Chrome, Safari, Edge)_
 
 ## Known Bugs
 
